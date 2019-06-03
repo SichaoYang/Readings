@@ -1,6 +1,9 @@
-# [Reading note template](https://github.com/SichaoYang/Readings/wiki)
+# Reading Notes
+A pilot attempt to create sharable and editable annotated bibliography on GitHub. Despite currently no one collaborate with me, I want to test whether this approach can promote my reading efficiency, and even open science, education accessibility, and time-saving collarborative reading in the future. See [Wiki](https://github.com/SichaoYang/Readings/wiki).
+
+# [Reading note template](https://github.com/SichaoYang/Readings)
 ### Reference
-Yang, S. (2019). Reading note template. _Github_.
+Yang, S. (2019). Reading note template. _GitHub_.
 ### Abstract
 Original abstract with **bold highlighting**.
 ### Introduction
