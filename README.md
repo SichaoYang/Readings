@@ -1,5 +1,5 @@
 # Reading Notes
-A pilot attempt to create sharable and editable annotated bibliography on GitHub. Despite currently no one collaborate with me, I want to test whether this approach can promote my reading efficiency, and even open science, education accessibility, and time-saving collarborative reading in the future. See [Wiki](https://github.com/SichaoYang/Readings/wiki).
+A pilot attempt to create a sharable and editable annotated bibliography on GitHub. Despite that currently no one collaborates with me, I want to test whether this approach can promote my reading efficiency, and even open science, education accessibility, and time-saving collaborative reading in the future. See [Wiki](https://github.com/SichaoYang/Readings/wiki).
 
 # [Reading note template](https://github.com/SichaoYang/Readings)
 ### Reference
