@@ -11,13 +11,13 @@ Definitions. Background:
 ### Other Sections
 Keypoints.
 
-# [Ref Paper 1](link)
+# [Ref paper 1](link)
 ### Reference
 Lastname, F. (n.d.). Ref paper 1. _Imaginary, 1_(1), 1.
 ### Abstract
 Original abstract with **bold highlighting**.
 
-# [Ref Paper 2](link)
+# [Ref paper 2](link)
 ### Reference
 Lastname, F. (n.d.). Ref paper 2. _Imaginary, 2_(2), 2.
 ### Abstract
